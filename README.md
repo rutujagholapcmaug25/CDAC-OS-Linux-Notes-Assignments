@@ -14,7 +14,7 @@ This repository contains **Operating System Assignments** and **Java implementat
 | [COS Assignment 2 Solution.pdf](COS%20Assignment%202%20Solution.pdf) | Assignment 2 – Solutions |
 | [FirstComeFS.java](FirstComeFS.java) | CPU Scheduling – **First Come First Serve (FCFS)** |
 | [SJF_Scheduling.java](SJF_Scheduling.java) | CPU Scheduling – **Shortest Job First (SJF)** |
-| [Mini_Project](Mini_Project/) | **Shell Scripting Project** |
+| [Mini_Project](https://github.com/rutujagholapcmaug25/MiniProject-ShellScripting) | **Shell Scripting Project** |
 
 ---
 
